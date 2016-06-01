@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Documents/BuildTools/Spigot/Spigot-API/target/spigot-api-1.8.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Documents/BuildTools/Spigot/Spigot-Server/target/spigot-1.8.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Documents/BuildTools/spigot-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Downloads/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Downloads/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Downloads/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Documents/Factions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Documents/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Downloads/CustomEnchantmentAPI-2.6.4-RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

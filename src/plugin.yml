@@ -1,0 +1,14 @@
+name: CustomEnchants
+version: 1.0
+description: Create Custom Enchanted Items.
+
+author: bditt
+
+main: com.bditt.CustomEnchants.Enchants.CustomEnchants
+database: false
+depend: [CustomEnchantmentAPI]
+softdepend: [Vault,Factions,MCore,WorldGuard]
+
+commands:
+  TestGui:
+     description: Testing To See If The GUI works.
